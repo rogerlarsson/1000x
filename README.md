@@ -1,5 +1,3 @@
-# 1000x
-
 Shift happens.
 
 ## fast.ai
