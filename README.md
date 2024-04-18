@@ -14,13 +14,10 @@ Shift happens.
 
 + Jeremy Howard et al
 
-### Course
+### Course & book
 
 + Practical Deep Learning for Coders
   - https://course.fast.ai
-
-### Books
-
 + Deep Learning for Coders with Fastai and PyTorch: AI Applications Without a PhD
   - 9781492045526
   - https://github.com/fastai/fastbook
