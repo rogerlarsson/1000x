@@ -2,28 +2,18 @@
 
 Shift happens.
 
-
-# Learn faster
-
-
 ## fast.ai
 
 "apply deep learning and machine learning to practical problems"
 
-### Persons
-
 + Jeremy Howard et al
-
-### Course & book
-
 + Practical Deep Learning for Coders
   - https://course.fast.ai
 + Deep Learning for Coders with Fastai and PyTorch: AI Applications Without a PhD
   - 9781492045526
   - https://github.com/fastai/fastbook
 
-
-# Statistical Learning, Machine Learning and Deep Learning
+## Statistical Learning, Machine Learning and Deep Learning
 
 + Machine Learning: Concepts and Applications (37 h)
   - https://www.coursera.org/learn/machine-learning-applications 
@@ -35,9 +25,6 @@ Shift happens.
   - https://www.coursera.org/specializations/deep-learning
 + Natural Language Processing Specialization (~110 h)
   - https://www.coursera.org/specializations/natural-language-processing 
-
-
-# Foundations
 
 ## PyTorch
 
@@ -61,24 +48,11 @@ Shift happens.
 + Computers, Waves, Simulations: A Practical Introduction to Numerical Methods using Python (35 h)
   - https://www.coursera.org/learn/computers-waves-simulations
 
-
-
-# Advanced stuff (!)
-
-
 ## Scientific Machine Learning
 
-### Persons
-
 + Chris Rackauckas et al
-
-### Intro
-
 + Scientific Machine Learning
   - https://sciml.wur.nl/reviews/sciml/sciml.html
-
-### Example applications
-
 + Solving PDEs using neural networks
   - https://youtu.be/c0Ck4TEGCzw?feature=shared&t=478
 + Accelerating Extreme Weather Prediction with FourCastNet
@@ -99,12 +73,7 @@ Shift happens.
 
 "Neural Operators can augment or even replace existing simulators in many applications, such as computational fluid dynamics, weather forecasting, and material modeling, while being 4-5 orders of magnitude faster"
 
-### Persons
-
 + Animashree Anandkumar et al
-
-### Intro
-
 + Neural Operators for Accelerating Scientific Simulations and Design
   - https://arxiv.org/abs/2309.15325
 
@@ -121,17 +90,9 @@ Shift happens.
 
 "100000 neurons to 19 neurons"
 
-### Persons
-
 + Ramin Hasani, Mathias Lechner et al
-
-### Intro
-
 + MIT CSAIL, Inventing liquid neural networks 20min
   - https://www.youtube.com/watch?v=iRXZ5vQ6mGE
-
-### Articles etc
-
 + Interpretable recurrent neural networks in continuous-time control environments
   - https://repositum.tuwien.at/handle/20.500.12708/1068 
 + Liquid Time-constant Networks
